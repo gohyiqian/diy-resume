@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# DIY-RESUME
+
+Allows user to choose and create different cv templates by just importing their data in json format.
+
+## Built with:
+
+- NextJs
+- Firebase
+- Github Actions
+
+  This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
